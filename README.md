@@ -1,6 +1,11 @@
 ## Predict criminality in Dutch neighbourhoods
 
 Build a classification model to predict whether a Dutch neighbourhood has high, medium, or low (registered) criminality using the Statistics Netherlands (CBS) [1] and (registered) criminality in The Netherlands [2] datasets.
+Evaluate the performance of the following machine learning algorithms:
+- KNN Model
+- Logistic Regression
+- SVM Model
+- Random Forest 
 
 
 [1] CBS. Kerncijfers wijken en buurten 2016. https://www.cbs.nl/nl-nl/
